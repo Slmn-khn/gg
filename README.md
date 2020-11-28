@@ -18,6 +18,9 @@ if you use node then run the command: npm install --global expo-cli
 ```
 cd sezzle-calculator-assignmnet.git
 
+if you use yarn then run the command: yarn install
+if you use node then run the command: npm install
+
 expo start
 ```
 
